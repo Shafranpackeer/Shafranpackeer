@@ -34,13 +34,8 @@ Nuclei, Burp Suite, ffuf, Amass, Subfinder, SQLMap, Metasploit
 </details>
 
 <details>
-<summary>Stats</summary>
+<summary>TryHackMe</summary>
 <br/>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shafranpackeer&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shafranpackeer&theme=dark&hide_border=true&background=0d1117" width="48%" />
-</p>
 
 <p align="center">
   <a href="https://tryhackme.com/p/Lordpackeer">
